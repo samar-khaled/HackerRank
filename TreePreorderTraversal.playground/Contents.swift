@@ -1,114 +1,101 @@
 import Foundation
 
 /// https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
-/// Not working yet!
-final class Node<T> {
-    var root: T
-    var left: Node?
-    var right: Node?
 
-    init(root: T, left: Node? = nil, right: Node? = nil) {
-        self.root = root
-        self.left = left
-        self.right = right
+final class BinarySearchTree<T: Comparable> {
+    private var value: T
+    private var parent: BinarySearchTree?
+    private var left: BinarySearchTree?
+    private var right: BinarySearchTree?
+
+    init(value: T) {
+        self.value = value
     }
 
-    func setRight(r: Node) {
-        right = r
+    convenience init(array: [T]) {
+        precondition(array.count > 0)
+        self.init(value: array.first!)
+        for v in array.dropFirst() {
+            insert(value: v)
+        }
     }
 
-    func setLeft(l: Node) {
-        left = l
+    var isRoot: Bool {
+        return parent == nil
+    }
+
+    var isLeaf: Bool {
+        return left == nil && right == nil
+    }
+
+    var isLeftChild: Bool {
+        return parent?.left === self
+    }
+
+    var isRightChild: Bool {
+        return parent?.right === self
+    }
+
+    var hasLeftChild: Bool {
+        return left != nil
+    }
+
+    var hasRightChild: Bool {
+        return right != nil
+    }
+
+    var hasAnyChild: Bool {
+        return hasLeftChild || hasRightChild
+    }
+
+    var hasBothChildren: Bool {
+        return hasLeftChild && hasRightChild
+    }
+
+    var count: Int {
+        return (left?.count ?? 0) + 1 + (right?.count ?? 0)
+    }
+
+    func insert(value: T) {
+        if value < self.value {
+            if let left = left {
+                left.insert(value: value)
+            } else {
+                left = BinarySearchTree(value: value)
+                left?.parent = self
+            }
+        } else {
+            if let right = right {
+                right.insert(value: value)
+            } else {
+                right = BinarySearchTree(value: value)
+                right?.parent = self
+            }
+        }
     }
 }
 
-extension Node: CustomStringConvertible {
-    var description: String {
-        var text = "root = \(root)"
-
-        if let right = right {
-            text += " right = \(right.root)"
-        }
+extension BinarySearchTree: CustomStringConvertible {
+    public var description: String {
+        var s = ""
+        s += "\(value)"
         if let left = left {
-            text += " left = \(left.root)"
+            s += " \(left.description)"
         }
-        return text
+        if let right = right {
+            s += " \(right.description)"
+        }
+        return s
     }
 }
 
 func process(no: Int, numbers: [Int]) {
-//    print(numbers)
     if no == 0 || numbers.isEmpty { return }
-    var nodes = [Node<Int>]()
-    for (index, i) in numbers.enumerated() {
-        let node = Node(root: i)
-        if nodes.count > 0 {
-            if let left = getLastEmptyLeft(nodes: nodes, root: i) {
-                left.setLeft(l: node)
-            } else if let right = getLastEmptyRight(nodes: nodes, root: i) {
-                right.setRight(r: node)
-            } else {
-                let prev = nodes[index - 1]
-                if prev.root < i {
-                    prev.setRight(r: node)
-                } else {
-                    prev.setLeft(l: node)
-                }
-            }
-        }
-        nodes.append(node)
-    }
-    print(nodes)
-
-    print(printNode(node: nodes[0]))
-}
-
-func getLastEmptyLeft(nodes: [Node<Int>], root: Int) -> Node<Int>? {
-    for index in stride(from: nodes.count - 2, to: 0, by: -1) {
-
-        if nodes[index].left != nil {
-            if nodes[index + 1].root < root {
-                return nodes[index + 1]
-            } else {
-                return nil
-            }
-        }
-    }
-    return nil
-}
-
-func getLastEmptyRight(nodes: [Node<Int>], root: Int) -> Node<Int>? {
-    for index in stride(from: nodes.count - 2, to: 0, by: -1) {
-        // print("index of right \(index), for root \(root)")
-        if nodes[index].right != nil {
-            //  print("nodes[index].right \(nodes[index].right), node = \(nodes[index].root) for root \(root)")
-            if nodes[index + 1].right == nil, nodes[index + 1].root > root {
-                return nodes[index + 1]
-            } else {
-                return nil
-            }
-        }
-    }
-    return nil
-}
-
-func printNode(node: Node<Int>) -> String {
-    var string = "\(node.root) "
-    // print(string)
-
-    if let right = node.right {
-        string += printNode(node: right)
-        //   print(string)
-    }
-    if let left = node.left {
-        string += printNode(node: left)
-        // print(string)
-    }
-    return string
+    let tree = BinarySearchTree<Int>(array: numbers)
+    print(tree)
 }
 
 func processCommands() {
-
     let numbers = Int(readLine()!)!
     let string = readLine()!.split(separator: " ")
     let arr = string.compactMap { Int($0) }

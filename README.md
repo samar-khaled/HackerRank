@@ -15,5 +15,5 @@ My solutions for HackerRank problems in Swift
 13. [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)
 14. [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)
 15. [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)
-16. [Tree Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) not working yet
+16. [Tree Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
 17. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)
