@@ -2,12 +2,12 @@ import Foundation
 
 /// https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
 /// Not working yet!
-final class Node {
-    var root: Int
+final class Node<T> {
+    var root: T
     var left: Node?
     var right: Node?
 
-    init(root: Int, left: Node? = nil, right: Node? = nil) {
+    init(root: T, left: Node? = nil, right: Node? = nil) {
         self.root = root
         self.left = left
         self.right = right
@@ -22,20 +22,33 @@ final class Node {
     }
 }
 
+extension Node: CustomStringConvertible {
+    var description: String {
+        var text = "root = \(root)"
+
+        if let right = right {
+            text += " right = \(right.root)"
+        }
+        if let left = left {
+            text += " left = \(left.root)"
+        }
+        return text
+    }
+}
+
 func process(no: Int, numbers: [Int]) {
 //    print(numbers)
     if no == 0 || numbers.isEmpty { return }
-    var nodes = [Node]()
+    var nodes = [Node<Int>]()
     for (index, i) in numbers.enumerated() {
         let node = Node(root: i)
         if nodes.count > 0 {
-            var left = getLastEmptyLeft(nodes: nodes, root: i)
-            if var left = getLastEmptyLeft(nodes: nodes, root: i) {
+            if let left = getLastEmptyLeft(nodes: nodes, root: i) {
                 left.setLeft(l: node)
-            } else if var right = getLastEmptyRight(nodes: nodes, root: i) {
+            } else if let right = getLastEmptyRight(nodes: nodes, root: i) {
                 right.setRight(r: node)
             } else {
-                var prev = nodes[index - 1]
+                let prev = nodes[index - 1]
                 if prev.root < i {
                     prev.setRight(r: node)
                 } else {
@@ -45,11 +58,12 @@ func process(no: Int, numbers: [Int]) {
         }
         nodes.append(node)
     }
+    print(nodes)
 
     print(printNode(node: nodes[0]))
 }
 
-func getLastEmptyLeft(nodes: [Node], root: Int) -> Node? {
+func getLastEmptyLeft(nodes: [Node<Int>], root: Int) -> Node<Int>? {
     for index in stride(from: nodes.count - 2, to: 0, by: -1) {
 
         if nodes[index].left != nil {
@@ -63,7 +77,7 @@ func getLastEmptyLeft(nodes: [Node], root: Int) -> Node? {
     return nil
 }
 
-func getLastEmptyRight(nodes: [Node], root: Int) -> Node? {
+func getLastEmptyRight(nodes: [Node<Int>], root: Int) -> Node<Int>? {
     for index in stride(from: nodes.count - 2, to: 0, by: -1) {
         // print("index of right \(index), for root \(root)")
         if nodes[index].right != nil {
@@ -78,7 +92,7 @@ func getLastEmptyRight(nodes: [Node], root: Int) -> Node? {
     return nil
 }
 
-func printNode(node: Node) -> String {
+func printNode(node: Node<Int>) -> String {
     var string = "\(node.root) "
     // print(string)
 
