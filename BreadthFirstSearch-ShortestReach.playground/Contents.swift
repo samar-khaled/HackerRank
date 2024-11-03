@@ -1,6 +1,6 @@
 import Foundation
-// https://www.hackerrank.com/challenges/bfsshortreach/problem
-import UIKit
+/// https://www.hackerrank.com/challenges/bfsshortreach/problem
+/// Need optimization some test cases are still failing due to timeout
 
 func bfs(n: Int, m: Int, edges: [[Int]], s: Int) -> [Int] {
     print("n = \(n), m = \(m), edges = \(edges), s = \(s)")

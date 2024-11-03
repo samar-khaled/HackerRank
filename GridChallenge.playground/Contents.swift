@@ -1,6 +1,6 @@
 import UIKit
 
-// https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem
+/// https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem
 extension String {
 
     var length: Int {
