@@ -1,6 +1,6 @@
 My solutions for HackerRank problems in Swift
 
-1. [Balanced Brackets] (https://www.hackerrank.com/challenges/balanced-brackets/problem)
+1. [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
 2. Breadth First Search - Shortest Reach https://www.hackerrank.com/challenges/bfsshortreach/problem (still need optimization)
 3. Caesar Cipher https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher/problem
 4. Flipping The Matrix https://www.hackerrank.com/challenges/flipping-the-matrix/problem
