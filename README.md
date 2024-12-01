@@ -17,3 +17,4 @@ My solutions for HackerRank problems in Swift
 15. [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)
 16. [Tree Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
 17. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)
+18. [Staircase detail](https://www.hackerrank.com/challenges/staircase/problem)
