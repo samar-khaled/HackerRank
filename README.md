@@ -22,3 +22,4 @@ My solutions for HackerRank problems in Swift
 20. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 21. [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 22. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+23. [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
