@@ -20,3 +20,5 @@ My solutions for HackerRank problems in Swift
 18. [Staircase detail](https://www.hackerrank.com/challenges/staircase/problem)
 19. [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 20. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+21. [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+22. 
