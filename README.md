@@ -18,4 +18,5 @@ My solutions for HackerRank problems in Swift
 16. [Tree Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
 17. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)
 18. [Staircase detail](https://www.hackerrank.com/challenges/staircase/problem)
-19. [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+19. [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+20. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
