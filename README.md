@@ -24,3 +24,4 @@ My solutions for HackerRank problems in Swift
 22. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 23. [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 24. [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
+25. [Ctci Array Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
