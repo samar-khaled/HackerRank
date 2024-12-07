@@ -27,3 +27,4 @@ My solutions for HackerRank problems in Swift
 25. [Ctci Array Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
 26. [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 27. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+28. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
