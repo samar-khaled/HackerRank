@@ -30,10 +30,13 @@ My solutions for HackerRank problems in Swift
 28. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
 
 **1 Month preparation Kit**
+
 **Week 1**
+
 1. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 2. [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 3. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
 4. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 5. [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
 6. [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)
+7. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
