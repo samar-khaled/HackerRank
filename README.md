@@ -28,9 +28,9 @@ My solutions for HackerRank problems in Swift
 26. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 27. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 28. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
-29. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
 
 **1 Month preparation Kit**
 **Week 1**
 1. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 2. [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+3. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
