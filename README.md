@@ -30,3 +30,4 @@ My solutions for HackerRank problems in Swift
 28. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 29. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
 30. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+31. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
