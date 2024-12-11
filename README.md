@@ -36,3 +36,4 @@ My solutions for HackerRank problems in Swift
 3. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
 4. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 5. [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
+6. [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)
