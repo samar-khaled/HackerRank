@@ -34,3 +34,4 @@ My solutions for HackerRank problems in Swift
 1. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 2. [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 3. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+4. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
