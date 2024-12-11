@@ -41,3 +41,4 @@ My solutions for HackerRank problems in Swift
 6. [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)
 7. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 8. [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
+9. [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
