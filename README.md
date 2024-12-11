@@ -40,3 +40,4 @@ My solutions for HackerRank problems in Swift
 5. [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
 6. [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)
 7. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+8. [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
