@@ -42,3 +42,4 @@ My solutions for HackerRank problems in Swift
 7. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 8. [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
 9. [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
+10. [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
