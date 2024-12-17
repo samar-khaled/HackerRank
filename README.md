@@ -43,3 +43,5 @@ My solutions for HackerRank problems in Swift
 8. [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
 9. [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
 10. [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
+11. [Subarray Division 1](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+
