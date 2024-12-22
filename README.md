@@ -44,4 +44,8 @@ My solutions for HackerRank problems in Swift
 9. [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
 10. [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
 11. [Subarray Division 1](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+12. Mock Test
+12.a [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)
+12.b [Flipping The Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
 
+** Week 2**
