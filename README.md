@@ -49,3 +49,5 @@ My solutions for HackerRank problems in Swift
 12.b [Flipping The Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
 
 ** Week 2**
+
+1. [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
