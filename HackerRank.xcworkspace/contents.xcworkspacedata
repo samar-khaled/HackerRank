@@ -94,4 +94,7 @@
    <FileRef
       location = "group:TwoStrings.playground">
    </FileRef>
+   <FileRef
+      location = "group:CountElementsGreaterThanPreviousAverage.playground">
+   </FileRef>
 </Workspace>

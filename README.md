@@ -28,6 +28,7 @@ My solutions for HackerRank problems in Swift
 26. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 27. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 28. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
+29. [Count Elements Greater Than Previous Average](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average)
 
 **1 Month preparation Kit**
 
