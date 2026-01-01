@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ArrayManipulation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BalancedBrackets.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BirthdayCakeCandles.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BreadthFirstSearch-ShortestReach.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CaesarCipher.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CountingValleys.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CtciArrayLeftRotation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FlippingTheMatrix.playground">
+   </FileRef>
+   <FileRef
+      location = "group:GradingStudents.playground">
+   </FileRef>
+   <FileRef
+      location = "group:GridChallenge.playground">
+   </FileRef>
+   <FileRef
+      location = "group:HashTablesRansomNote.playground">
+   </FileRef>
+   <FileRef
+      location = "group:JesseAndCookies.playground">
+   </FileRef>
+   <FileRef
+      location = "group:JumpingOnTheClouds.playground">
+   </FileRef>
+   <FileRef
+      location = "group:LegoBlocks.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MinimumSwaps2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MonthPreparationKit">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:NewYearChaos.playground">
+   </FileRef>
+   <FileRef
+      location = "group:NoPrefixSet.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PalindromeIndex.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Paris.playground">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:RecursiveDigitSum.playground">
+   </FileRef>
+   <FileRef
+      location = "group:RepeatedString.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SimpleTextEditor.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SockMerchant.playground">
+   </FileRef>
+   <FileRef
+      location = "group:StaircaseDetail.playground">
+   </FileRef>
+   <FileRef
+      location = "group:TowerBreakers.playground">
+   </FileRef>
+   <FileRef
+      location = "group:TreePreorderTraversal.playground">
+   </FileRef>
+   <FileRef
+      location = "group:TruckTour.playground">
+   </FileRef>
+   <FileRef
+      location = "group:TwoStrings.playground">
+   </FileRef>
+</Workspace>
