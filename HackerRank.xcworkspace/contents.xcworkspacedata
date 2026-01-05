@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:FindTheSmallestMissingPositiveInteger.playground">
+   </FileRef>
+   <FileRef
       location = "group:RecursiveDigitSum.playground">
    </FileRef>
    <FileRef

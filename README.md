@@ -29,6 +29,7 @@ My solutions for HackerRank problems in Swift
 27. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 28. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
 29. [Count Elements Greater Than Previous Average](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average)
+30. [Find the Smallest Missing Positive Integer](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/find-smallest-missing-positive-integer/problem)
 
 **1 Month preparation Kit**
 
