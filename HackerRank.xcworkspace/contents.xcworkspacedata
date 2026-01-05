@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:CheckPalindromeByFilteringNon-Letters.playground">
+   </FileRef>
+   <FileRef
       location = "group:FindTheSmallestMissingPositiveInteger.playground">
    </FileRef>
    <FileRef
