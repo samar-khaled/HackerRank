@@ -31,6 +31,7 @@ My solutions for HackerRank problems in Swift
 29. [Count Elements Greater Than Previous Average](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average)
 30. [Find the Smallest Missing Positive Integer](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/find-smallest-missing-positive-integer/problem)
 31. [Check Palindrome by Filtering Non-Letters](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-palindrome-filter-non-letters/problem)
+32. [Check for Non-Identical String Rotation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-non-identical-string-rotation/problem)
 
 **1 Month preparation Kit**
 
