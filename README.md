@@ -32,6 +32,7 @@ My solutions for HackerRank problems in Swift
 30. [Find the Smallest Missing Positive Integer](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/find-smallest-missing-positive-integer/problem)
 31. [Check Palindrome by Filtering Non-Letters](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-palindrome-filter-non-letters/problem)
 32. [Check for Non-Identical String Rotation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-non-identical-string-rotation/problem)
+33. [Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search/problem)
 
 **1 Month preparation Kit**
 
