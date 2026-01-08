@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:FindFirstOccurrence.playground">
+   </FileRef>
+   <FileRef
       location = "group:TargetIndexSearch.playground">
    </FileRef>
    <FileRef
