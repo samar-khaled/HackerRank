@@ -34,6 +34,7 @@ My solutions for HackerRank problems in Swift
 32. [Check for Non-Identical String Rotation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-non-identical-string-rotation/problem)
 33. [Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search/problem)
 34. [Find First Occurrence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem)
+35. [Maximum Number of Non-Overlapping Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem)
 
 **1 Month preparation Kit**
 
