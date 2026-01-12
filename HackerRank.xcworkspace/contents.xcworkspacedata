@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:ValidateProperlyNestedBrackets.playground">
+   </FileRef>
+   <FileRef
       location = "group:MaximumNumberOfNon-OverlappingIntervals.playground">
    </FileRef>
    <FileRef

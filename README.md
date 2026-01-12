@@ -35,6 +35,7 @@ My solutions for HackerRank problems in Swift
 33. [Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search/problem)
 34. [Find First Occurrence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem)
 35. [Maximum Number of Non-Overlapping Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem)
+36. [Validate Properly Nested Brackets](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/validate-properly-nested-brackets/problem)
 
 **1 Month preparation Kit**
 
