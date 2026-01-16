@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:RemoveConsecutiveDuplicatesFromSortedLinkedList.playground">
+   </FileRef>
+   <FileRef
       location = "group:CountNumberPairs.playground">
    </FileRef>
    <FileRef

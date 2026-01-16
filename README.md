@@ -39,6 +39,7 @@ My solutions for HackerRank problems in Swift
 37. [Min-Tracking Stack Implementation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/min-tracking-stack/problem)
 38. [One-Pass Removal of k-th Node from End](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/problem)
 39. [Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem)
+40. [Remove Consecutive Duplicates from Sorted Linked List](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-consecutive-duplicates-sorted-list/problem)
 
 **1 Month preparation Kit**
 
