@@ -38,6 +38,7 @@ My solutions for HackerRank problems in Swift
 36. [Validate Properly Nested Brackets](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/validate-properly-nested-brackets/problem)
 37. [Min-Tracking Stack Implementation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/min-tracking-stack/problem)
 38. [One-Pass Removal of k-th Node from End](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/problem)
+39. [Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem)
 
 **1 Month preparation Kit**
 
