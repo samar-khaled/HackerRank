@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:One-PassRemoval_of_k-thNodeFromEnd.playground">
+   </FileRef>
+   <FileRef
       location = "group:Min-TrackingStackImplementation.playground">
    </FileRef>
    <FileRef
