@@ -41,6 +41,7 @@ My solutions for HackerRank problems in Swift
 39. [Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem)
 40. [Remove Consecutive Duplicates from Sorted Linked List](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-consecutive-duplicates-sorted-list/problem)
 41. [Generate Valid Angle Bracket Sequences](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/generate-valid-angle-bracket-sequences/problem)
+42. [Remove Elements Within K Distance](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-elements-within-k-distance/problem)
 
 **1 Month preparation Kit**
 
