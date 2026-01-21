@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:TwoSum.playground">
+   </FileRef>
+   <FileRef
       location = "group:RemoveElementsWithinKDistance.playground">
    </FileRef>
    <FileRef
