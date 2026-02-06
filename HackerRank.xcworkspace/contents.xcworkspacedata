@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:JourneyToTheMoon.playground">
+   </FileRef>
+   <FileRef
       location = "group:CheckValidAnagram.playground">
    </FileRef>
    <FileRef
