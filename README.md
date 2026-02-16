@@ -45,6 +45,7 @@ My solutions for HackerRank problems in Swift
 43. [Two Sum](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/time-slot-task-pairing/problem)
 44. [Check Valid Anagram](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-valid-anagram/problem)
 45. [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
+46. [Lexicographical Letter Combinations of Phone Digits](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lexicographical-letter-combinations-phone-digits/problem)
 
 **1 Month preparation Kit**
 
