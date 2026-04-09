@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:PlaceNCamerasWithoutConflictOnBlockedGrid.playground">
+   </FileRef>
+   <FileRef
       location = "group:LexicographicalLetterCombinationsofPhoneDigits.playground">
    </FileRef>
    <FileRef
