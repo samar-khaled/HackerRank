@@ -68,6 +68,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:CustomFibonacciSequence.playground">
+   </FileRef>
+   <FileRef
       location = "group:PlaceNCamerasWithoutConflictOnBlockedGrid.playground">
    </FileRef>
    <FileRef

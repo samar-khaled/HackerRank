@@ -47,6 +47,7 @@ My solutions for HackerRank problems in Swift
 45. [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
 46. [Lexicographical Letter Combinations of Phone Digits](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lexicographical-letter-combinations-phone-digits/problem)
 47. [Place N Cameras Without Conflict on Blocked Grid](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/place-n-cameras-no-conflict-blocked-grid/problem)
+48. [Custom Fibonacci Sequence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/custom-fibonacci-sequence/problem)
 
 **1 Month preparation Kit**
 
